@@ -42,6 +42,13 @@
 - 最新コンパイラ構成技法
 - Java言語で学ぶデザインパターン
 
+## 開発ツール
+- macOS/Linux
+- bash/fish
+- Emacs
+- 各種linter, formatter
+- git
+
 ## 趣味
 - 読書（ミステリィ，哲学，純文学）
 - お昼寝
