@@ -1,5 +1,5 @@
 # Portfolio
-東北大学 工学部 電気情報物理工学科 情報工学コース 3年
+東北大学 工学部 電気情報物理工学科 情報工学コース 4年
 
 ## 興味分野
 - 型システム
@@ -8,7 +8,7 @@
 - 計算理論
 - セキュリティ
 - 関数プログラミング（Haksell, OCaml, Standard ML etc）
-- 定理証明（Coq, Isabelle)
+- 定理証明（Coq)
 - 言語学（音声学）
 
 ## 資格
@@ -18,20 +18,12 @@
 - 剣道三段
 
 ## プログラミングスキル
-- C言語
-    * 6年ほど使用しており，一番スキルが高い（主観）
-- Haskell
-    * そこそこ書ける
-- OCaml
-    * そこそこ書ける
-- C++
-    * 現在勉強中で基本的なことは理解している
-    * AOJ Corseの問題を解いている途中（http://judge.u-aizu.ac.jp/onlinejudge/course.jsp#all）
-- Java
-    * まずまず
-- Python
-    * まずまず
-    * バッチ処理のスクリプトを書く程度
+- C言語(intermediate)
+- Haskell(intermediate)
+- OCaml(intermediate)
+- C++(intermediate)
+- Java(novice)
+- Python(novice)
 
 ## 制作物
 - OCamlインタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
@@ -48,6 +40,7 @@
 - Emacs
 - 各種linter, formatter
 - git
+- docker
 
 ## 趣味
 - 読書（ミステリィ，哲学，純文学）
