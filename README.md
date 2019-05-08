@@ -18,12 +18,14 @@
 - 剣道三段
 
 ## プログラミングスキル
-- C言語(intermediate)
-- Haskell(intermediate)
-- OCaml(intermediate)
-- C++(intermediate)
-- Java(novice)
-- Python(novice)
+- Intermidiate:
+  - C言語
+  - Haskell
+  - OCaml
+  - C++
+- Beginner:
+  - Java
+  - Python
 
 ## 制作物
 - OCamlインタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
@@ -41,6 +43,7 @@
 - 各種linter, formatter
 - git
 - docker
+- AWS
 
 ## 趣味
 - 読書（ミステリィ，哲学，純文学）
