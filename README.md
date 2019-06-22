@@ -28,8 +28,9 @@
   - Python
 
 ## 制作物
-- OCamlインタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
+- OCaml インタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
 - BitTorrent Client（コンソールアプリケーション，Haskellで実装）
+- Scheme インタプリタ（Haskellで実装）
 
 ## 勉強中
 - プログラム意味論
