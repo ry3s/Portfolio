@@ -23,9 +23,10 @@
   - Haskell
   - OCaml
   - C++
+  - Python
 - Beginner:
   - Java
-  - Python
+  - Rust
 
 ## 制作物
 - OCaml インタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
@@ -33,15 +34,12 @@
 - Scheme インタプリタ（Haskellで実装）
 
 ## 勉強中
-- プログラム意味論
-- 最新コンパイラ構成技法
-- Java言語で学ぶデザインパターン
+- 
 
 ## 開発ツール
-- macOS/Linux
-- bash/fish
+- macOS, Ubuntu
+- bash
 - Emacs
-- 各種linter, formatter
 - git
 - docker
 - AWS
