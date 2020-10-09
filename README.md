@@ -1,5 +1,5 @@
 # Portfolio
-東北大学 工学部 電気情報物理工学科 情報工学コース 4年
+東北大学 大学院 情報科学研究科 情報基礎科学専攻
 
 ## 興味分野
 - 型システム
@@ -17,32 +17,29 @@
 - TOEIC 870点
 - 剣道三段
 
-## プログラミングスキル
-- Intermidiate:
-  - C言語
-  - Haskell
-  - OCaml
-  - C++
-  - Python
-- Beginner:
-  - Java
-  - Rust
+## 経歴
+* **株式会社HACARUS**、長期インターン（機械学習エンジニア）、2018ー現在
+* **ウォンテッドリー株式会社**、サマーインターン（インフラエンジニア）、2020年夏
+
+## スキル
+
+### 言語
+* OCaml
+* Haskell
+* Python
+* C/C++
+* Rust
+* Go
+
+### ツール
+* macOS, Ubuntu
+* Docker, kubernetes
+* AWS
 
 ## 制作物
 - OCaml インタプリタ（値呼びと名前呼び，それぞれについてOCamlで実装）
 - BitTorrent Client（コンソールアプリケーション，Haskellで実装）
 - Scheme インタプリタ（Haskellで実装）
-
-## 勉強中
-- 
-
-## 開発ツール
-- macOS, Ubuntu
-- bash
-- Emacs
-- git
-- docker
-- AWS
 
 ## 趣味
 - 読書（ミステリィ，哲学，純文学）
